@@ -14,3 +14,6 @@ The company has the following requirements for the branch network;
 
 
 The ISP has given out a base network of 192.168.1.0. Design and Implement the above instructions in the network.
+
+
+# Please view the .pkt file to check out the configuration and the image file to view the topology design.
